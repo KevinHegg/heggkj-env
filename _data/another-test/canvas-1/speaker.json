@@ -1,0 +1,1079 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2.52,4.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.94,12.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.55,28.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.91,46.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.75,91.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91.87,98.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "98.76,99.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99.63,113.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.0,148.46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "148.46,148.73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149.0,150.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.77,151.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "151.75,161.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "167.82,183.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "185.46,185.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "188.45,200.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.87,217.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "282.67,285.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "285.97,287.35"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "287.6,288.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.02,295.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "295.32,295.95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "335.65,349.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365.23,366.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "365.429,381.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "422.24,434.626"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "437.35,451.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.88,494.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.17,494.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "494.36,507.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.99,522.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "514.06,522.91"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "522.91,536.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "539.58,550.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "552.86,566.75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "575.0,589.67"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "602.88,613.74"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "678.42,690.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "691.57,694.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "694.0,701.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "702.85,710.62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "707.82,710.34"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "716.81,718.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "719.66,725.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "726.05,727.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "727.0,734.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "744.97,753.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "753.7,754.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'><b>Marilyn Nelson</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754.36,765.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='peru'><b>Maryemma Graham</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "770.0,771.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas/speaker-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='black'><b>Speaker Unknown</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/another-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "773.21,774.77"
+        }
+      }
+    }
+  ]
+}
