@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Loud Bang]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "115,131"
+        }
+      }
+    }
+  ]
+}
