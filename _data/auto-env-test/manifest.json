@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://KevinHegg.github.io/heggkj-env/auto-env-test/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Auto-ENV Test" ] },
+    "items": [
+      {
+        "id": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 775,
+        "items": [
+          {
+            "id": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 775
+                },
+                "target": "https://KevinHegg.github.io/heggkj-env/auto-env-test/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
