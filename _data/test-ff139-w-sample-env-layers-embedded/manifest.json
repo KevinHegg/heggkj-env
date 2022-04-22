@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Test: FF139 w Sample ENV layers embedded" ] },
+    "items": [
+      {
+        "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 775,
+        "items": [
+          {
+            "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 775
+                },
+                "target": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
