@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas/environment.json",
+  "type": "AnnotationPage",
+  "label": "Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas/environment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'>[Long Sigh]</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54,66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas/environment-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'>[Bird Singing]</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113,114"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas/environment-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='rebeccapurple'>[Loud Bang]</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggkj-env/test-ff139-w-sample-env-layers-embedded/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "115,128"
+        }
+      }
+    }
+  ]
+}
